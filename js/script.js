@@ -55,6 +55,7 @@ $(function () {
    $('.slide_cover ul li').eq(i).find("a img").addClass("on");
    $('.slide_cover ul li a img').removeClass("on");
 
+
   }
 
 }); 

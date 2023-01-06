@@ -145,7 +145,7 @@ body {
 	background-color: #fff;
 	top: 100%;
 	z-index: 999999999; 
-	/* display: none; */
+	display: none; 
 }
 .full_menu .full_cover > ul {
 	display: flex;
@@ -535,7 +535,7 @@ body {
 	display: block;
 	width: auto;
 	height: 350px;
-	transition: all 1.6s;
+	transition: all 0.6s;
 }
 
 .media_cover ul li a .text {
