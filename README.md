@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Project Name
+=======
+# Doosan_project
+>>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
 > 프로젝트에 대한 요약설명
 > 구현화면보기 [_here_](https://cswwe.github.io/Doosan_project/)
 
@@ -18,7 +22,11 @@
 
 
 ## General Information
+<<<<<<< HEAD
 > 기획서 보기 [_here_](https://drive.google.com/file/d/1iBTAq9vexYDPXBV-E_XVJMXKGdZpPXwt/view?usp=sharing)
+=======
+> 기획서 보기 [_here_](https://E:/230102doosan/%EB%91%90%EC%82%B0%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf.pdf)
+>>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
 - 기획서의 목차작성
 - 기획서의 내용을 간락히 요약 정리
 
@@ -84,4 +92,8 @@ Created by [@mango](frontendcsw@gmail.com) - 언제든지 연락주세요!
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
+<<<<<<< HEAD
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+=======
+<!-- You don't have to include all sections - just the one's relevant to your project -->
+>>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85

@@ -145,7 +145,7 @@ body {
 	background-color: #fff;
 	top: 100%;
 	z-index: 999999999; 
-	/* display: none; */
+	display: none; 
 }
 .full_menu .full_cover > ul {
 	display: flex;

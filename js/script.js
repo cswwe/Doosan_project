@@ -3,8 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		document.querySelector("#layer").style.display = "none";
 	});
 });
-/* 문서의 요소(태그)가 다 준비되면 실행해 */
-/* $(값) <- 제이쿼리 객체 <- 제이쿼리 함수를 실행할수 있음  */
+
 $(function () {
 	$(".full_menu, .nav li").mouseover(function () {
     $(".full_menu").stop().slideDown(600);
@@ -31,12 +30,6 @@ $(function () {
     $("#header .mo").css('color','red');
   })
 
-
-  /**
-   * mainCarousel 
-   * 시간마다 일시키는 timer
-   * 애니메이션효과를 갖고있는 slide
-   * * */
   var i=0,k=null,repeat;
   timer();
   function timer(){
@@ -51,9 +44,8 @@ $(function () {
   }
 
   function slide(){
-    //-100% -> 0 ->100%
   $('.white_box').css("left","-100%").stop().animate({left:"0%"},1000, function(){
-    $('.white_box').stop().animate({left:"100%"},1000)
+    $('.white_box').stop().animate({left:"100%"},500)
   })
    $('.slide_cover ul li').eq(i).addClass("on");
    $('.slide_cover ul li').eq(k).removeClass("on");
@@ -63,9 +55,7 @@ $(function () {
    $('.slide_cover ul li').eq(i).find("a img").addClass("on");
    $('.slide_cover ul li a img').removeClass("on");
 
-   //console.log("i="+i+"k="+k)
-   //$('.slide_cover ul li').eq(i).find().addClass('on');
 
   }
 
-}); //jQuery
+}); 
