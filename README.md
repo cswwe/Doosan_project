@@ -1,6 +1,5 @@
 # Project Name
 # Doosan_project
->>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
 > 프로젝트에 대한 요약설명
 > 구현화면보기 [_here_](https://cswwe.github.io/Doosan_project/)
 
