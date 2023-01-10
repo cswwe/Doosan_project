@@ -81,16 +81,6 @@ Give credit here.
 Created by [@mango](frontendcsw@gmail.com) - 언제든지 연락주세요!
 
 
-## Acknowledgements
-Give credit here.
-- 메인 포트폴리오주소 [this tutorial](https://www.example.com).
-- 방문해주셔서 감사합니다....
-
-
-## Contact
-Created by [@mango](frontendcsw@gmail.com) - 언제든지 연락주세요!
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
