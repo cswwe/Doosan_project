@@ -22,11 +22,7 @@
 
 
 ## General Information
-<<<<<<< HEAD
-> 기획서 보기 [_here_](https://drive.google.com/file/d/1iBTAq9vexYDPXBV-E_XVJMXKGdZpPXwt/view?usp=sharing)
-=======
 > 기획서 보기 [_here_](https://github.com/cswwe/Doosan_project/blob/main/%EB%91%90%EC%82%B0%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
->>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
 - 기획서의 목차작성
 - 기획서의 내용을 간락히 요약 정리
 
