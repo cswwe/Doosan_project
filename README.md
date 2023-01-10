@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Name
 =======
 # Doosan_project
