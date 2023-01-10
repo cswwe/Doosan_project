@@ -1,5 +1,4 @@
 # Project Name
-=======
 # Doosan_project
 >>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
 > 프로젝트에 대한 요약설명
@@ -83,12 +82,18 @@ Give credit here.
 Created by [@mango](frontendcsw@gmail.com) - 언제든지 연락주세요!
 
 
+## Acknowledgements
+Give credit here.
+- 메인 포트폴리오주소 [this tutorial](https://www.example.com).
+- 방문해주셔서 감사합니다....
+
+
+## Contact
+Created by [@mango](내 이메일주소) - 언제든지 연락주세요!
+
+
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
-<<<<<<< HEAD
 <!-- You don't have to include all sections - just the one's relevant to your project -->
-=======
-<!-- You don't have to include all sections - just the one's relevant to your project -->
->>>>>>> 515063ca1a90c1d6db55bce9c589a227b656da85
